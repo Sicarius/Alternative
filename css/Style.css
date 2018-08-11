@@ -1,0 +1,234 @@
+﻿
+body {
+	margin:0;
+}
+
+
+body.one {
+	background-color: #F0F7F7;
+	text-align:center;
+}
+
+.logo {
+	position:center;
+	padding-top:90px;
+	width:350px;
+}
+
+button {
+	background-color: #397CA1;
+	padding:40px 0px;
+	width: 100%;
+	display:inline-block;
+	color:white;
+	border: none;
+	font-size:18px;
+}
+
+a {
+	text-decoration:none;
+	color:white;
+}
+
+.first {
+	background-image:url(../images/rightclick.png);
+	background-repeat :no-repeat;
+	background-position: right;
+	margin-bottom:2px;
+	background-size: 3%;
+	font-family: 'Rubik', sans-serif;
+
+}
+
+.second {
+	background-image:url(../images/leftclick.png);
+	background-repeat :no-repeat;
+	background-position: left;
+	background-size: 3%;
+	font-family: 'Rubik', sans-serif;
+	
+}
+
+.con {
+	width:375px;
+	margin:0 auto;
+	
+}
+
+
+body.two {
+	background-color: #F0F7F7;
+	text-align:center;
+}
+
+.logosec {
+	position:center;
+	padding-top:30px;
+	margin-bottom:30px;
+	width:320px;
+}
+
+.textt {
+	background-color: #72C0DB;
+	padding:40px 0px;
+	width: 100%;
+	display:inline-block;
+	color:white;
+	border: none;
+	font-size:18px;
+	margin-bottom:2px;
+	background-image:url(../images/user.png);
+	background-repeat :no-repeat;
+	background-position: right;
+	text-align:center;
+	background-size: 15%;
+	font-family: 'Rubik', sans-serif;
+
+}
+
+.texttt {
+	background-color: #72C0DB;
+	padding:40px 0px;
+	width: 100%;
+	display:inline-block;
+	color:white;
+	border: none;
+	font-size:18px;
+	margin-bottom:2px;
+	background-image:url(../images/password.png);
+	background-repeat :no-repeat;
+	background-position: right;
+	text-align:center;
+	background-size: 15%;
+	font-family: 'Rubik', sans-serif;
+}
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: white;
+}
+.sub {
+	font-family: 'Rubik', sans-serif;
+	margin-bottom:20px;	
+}
+
+
+.subs{
+	font-family: 'Rubik', sans-serif;
+	margin-bottom:20px;
+    width:150px;
+}
+
+a {
+	font-size:14px;
+	font-family: 'Rubik', sans-serif;
+	font-weight:bold;
+	color:#3A7AA0;
+		
+}
+
+.down {
+	width: 20%;
+	margin: 15px 0px;	
+}
+
+
+body.three {
+	background-color: #F0F7F7;
+	text-align:center;
+}
+
+
+.textm {
+	background-color: #72C0DB;
+	padding:40px 0px;
+	width: 100%;
+	display:inline-block;
+	color:white;
+	border: none;
+	font-size:18px;
+	margin-bottom:2px;
+	background-image:url(../images/email.png);
+	background-repeat :no-repeat;
+	background-position: right;
+	text-align:center;
+	background-size: 15%;
+	font-family: 'Rubik', sans-serif;
+}
+
+body.five {
+	background-color: #F0F7F7;
+	text-align:center;
+}
+
+.five h3 {
+	background-color:#39799F;
+	color:white;
+	font-family: 'Rubik', sans-serif;
+	font-size:16px;
+	font-weight:200;
+	padding: 5px 0px;	
+}
+
+.packone {
+	padding:15px 0px;
+	background-color: #72C0DB;
+	border-radius: 4px;
+	font-family: 'Rubik', sans-serif;
+	color: white;	
+}
+
+.packtwo {
+	padding:15px 0px;
+	background-color: #72C0DB;
+	border-radius: 4px;
+	font-family: 'Rubik', sans-serif;
+	color: white;		
+}
+
+.packthree {
+	padding:15px 0px;
+	background-color: #72C0DB;
+	border-radius: 4px;
+	font-family: 'Rubik', sans-serif;
+	color: white;	
+}
+
+.packfour {
+	padding:15px 0px;
+	background-color: #72C0DB;
+	border-radius: 4px;
+	font-family: 'Rubik', sans-serif;
+	color: white;		
+}
+
+
+
+.packone:active {
+	border: 2px #39799F solid;	
+}
+
+.packtwo:active {
+	border: 2px #39799F solid;	
+}
+
+.packthree:active {
+	border: 2px #39799F solid;	
+}
+
+.packfour:active {
+	border: 2px #39799F solid;	
+}
+
+
+.pay {
+	font-family: 'Rubik', sans-serif;
+	margin:2px 0px 20px 0px;	
+}
+
+
+
+
+
+
+
+
